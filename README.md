@@ -4,11 +4,11 @@ This repository contains a simple implementation of a "sprite renderer" for Andr
 
 # What Is A "Sprite Engine"?
 
-The term "sprite engine" refers to the use of spritesheets in order to implement animations or game development. An example of a spritesheet from this repositoy is shown below. Found on my GitHub is another two examples of using this engine to make a game, under the pixarninja/pilgrims_crossing and pixarninja/bunny_massacre repositores.
+The term "sprite engine" refers to the use of spritesheets in order to implement animations or game development. An example of a spritesheet from this repositoy is shown below.
 
 ![Spritesheet](/app/src/main/res/mipmap-xxxhdpi/spritesheet_box_rotate_up_red_mirror.png)
 
-If you would like to make a game or app that uses this form of spritesheet, clone this repository and start by editing the sample game provided for you. Don't forget to rename the package directories, and update the new package name inside of the manifest. For help on creating a game, descriptions of each class and its methods can be found below.
+If you would like to make a game or app that uses this form of spritesheet, clone this repository and start by editing the sample game provided for you. Don't forget to rename the package directories, and update the new package name inside of the manifest. For help on creating a game, descriptions of each class and its methods can be found below. Found on my GitHub are a total of four examples of using this engine to make games. These can be found under [Bunny's Massacre](https://github.com/pixarninja/bunny_massacre), [Pilgrim's Crossing](https://github.com/pixarninja/pilgrims_crossing), [World Forge](https://github.com/pixarninja/world_forge), and this repository.
 
 # The Sample Game
 
