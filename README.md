@@ -1,10 +1,10 @@
-# Sprite Renderer for Android Studio
+# Sprite Engine for Android Studio
 
 This repository contains a simple implementation of a "sprite renderer" for Android Studio. Android Studio does not provide it's users with any innate sprite rendering/animation capabilities; it allows users to use the Bitmap, SurfaceView, and ImageView classes, however there is no package that contains a complete way to use spritesheets. This project is intended to provide users with that ability. If you would like a reference as to how the sprites are setup and rendered to the screen, see [Coding Android Sprite Sheet Animations](http://gamecodeschool.com/android/coding-android-sprite-sheet-animations/), which is a reference I used when writing the code for this project.
 
-# What Is "Sprite Rendering"?
+# What Is A "Sprite Engine"?
 
-The term "sprite rendering" refers to the use of spritesheets in order to implement animations. An example of a spritesheet from this repositoy is shown below.
+The term "sprite engine" refers to the use of spritesheets in order to implement animations or game development. An example of a spritesheet from this repositoy is shown below. Found on my GitHub is another two examples of using this engine to make a game, under the pixarninja/pilgrims_crossing and pixarninja/bunny_massacre repositores.
 
 ![Spritesheet](/app/src/main/res/mipmap-xxxhdpi/spritesheet_box_rotate_up_red_mirror.png)
 
